@@ -26,22 +26,22 @@
     
     - Adds The Text To The Image
     
-5. Wrap Perspective
+5. Chapter : Wrap Perspective
     - To Convert Or Perspective Correction Of Images From Angle To Birds Eye View tTransform.
     
-6. Joining Images
+6. Chapter : Joining Images
     - Stacking Images
     
-7. Color Detection
+7. Chapter : Color Detection
     - A Technique Of Detecting Any Color In A Given Range Of HSV (Hue Saturation Value) Color Space.
     
-8. Contour - Shape Detection
+8. Chapter : Contour - Shape Detection
     - Defined As The Line Joining All The Points Along The Boundary Of An Image. Contours Come Handy In Shape Analysis, Finding The Size Of The Object Of         Interest, And Object Detection
     
-9. Face Detection
+9. Chapter : Face Detection
     - Detecting The Faces From A Image
     
-10. Projects
+10. Chapter : Projects
     - Virtual Paint
     - Paper Scanner
     - Number Plate Detector
