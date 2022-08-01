@@ -1,5 +1,7 @@
 # It imports the OpenCV library.
 import cv2
+
+# Importing the numpy library, and it is giving it the alias np.
 import numpy as np
 
 # Setting the width and height of the image to 480 and 640 respectively, and it is setting the
